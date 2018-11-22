@@ -24,7 +24,7 @@ https://drive.google.com/open?id=16J6T_okFoPXfoQiYjZ-_VeGefWdXW3gHRIIMTYRHsps
 Will be added in a weekly basis
 
 <br>
-### Lecture 1 (Everything which has to do with Variables and Variable Methods + Code Flow)
+**Lecture 1** (Everything which has to do with Variables and Variable Methods + Code Flow)
 <br>
 https://drive.google.com/open?id=1asBgTw0xXlBp8jMvy_w0rKojXnqDPUfmgqJYYuAPYbo
 

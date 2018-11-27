@@ -24,13 +24,13 @@ https://drive.google.com/open?id=16J6T_okFoPXfoQiYjZ-_VeGefWdXW3gHRIIMTYRHsps
 Will be added in a weekly basis
 
 <br>
-__ Lecture 1 __ (Everything which has to do with Variables and Variable Methods + Code Flow)
+* __Lecture 1__ (Everything which has to do with Variables and Variable Methods + Code Flow)
 <br>
-[ PPT for lecture 1 ](https://drive.google.com/open?id=1asBgTw0xXlBp8jMvy_w0rKojXnqDPUfmgqJYYuAPYbo)
+* [PPT for lecture 1](https://drive.google.com/open?id=1asBgTw0xXlBp8jMvy_w0rKojXnqDPUfmgqJYYuAPYbo)
 
 <br>
 <br>
-__ Lecture 2 __ (Functions, Generators, Iterables)
+* __Lecture 2__ (Functions, Generators, Iterables)
 <br>
-[ PPT for lecture 2 ](https://docs.google.com/presentation/d/1uIZy3TQ-AG42hxwqjBmpibas0hdZ483j-EPpLz0Ymwk/edit?usp=sharing)
+* [PPT for lecture 2](https://docs.google.com/presentation/d/1uIZy3TQ-AG42hxwqjBmpibas0hdZ483j-EPpLz0Ymwk/edit?usp=sharing)
 

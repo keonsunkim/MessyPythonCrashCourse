@@ -28,5 +28,8 @@ Will be added in a weekly basis
 <br>
 https://drive.google.com/open?id=1asBgTw0xXlBp8jMvy_w0rKojXnqDPUfmgqJYYuAPYbo
 
-
+<br>
+**Lecture 2** (Functions, Generators, Iterables)
+<br>
+https://docs.google.com/presentation/d/1uIZy3TQ-AG42hxwqjBmpibas0hdZ483j-EPpLz0Ymwk/edit?usp=sharing
 

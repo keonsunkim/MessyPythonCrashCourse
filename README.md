@@ -24,9 +24,9 @@ https://drive.google.com/open?id=16J6T_okFoPXfoQiYjZ-_VeGefWdXW3gHRIIMTYRHsps
 Will be added in a weekly basis
 
 <br>
-* __Lecture 1__ (Everything which has to do with Variables and Variable Methods + Code Flow)
+__Lecture 1__ (Everything which has to do with Variables and Variable Methods + Code Flow)
 <br>
-*[PPT for lecture 1*](https://drive.google.com/open?id=1asBgTw0xXlBp8jMvy_w0rKojXnqDPUfmgqJYYuAPYbo)
+[PPT for lecture 1](/https://drive.google.com/open?id=1asBgTw0xXlBp8jMvy_w0rKojXnqDPUfmgqJYYuAPYbo)
 
 <br>
 <br>

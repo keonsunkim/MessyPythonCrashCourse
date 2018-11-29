@@ -38,5 +38,4 @@ https://drive.google.com/open?id=1DjtGs3Zd3nF7PkQSil5tgq_OMhbk3XNqd70Dx3D4KhQ
 <br>
 ### Lecture 3 (Classes and 3rd Party Packages)
 <br>
-https://drive.google.com/open?id=1DjtGs3Zd3nF7PkQSil5tgq_OMhbk3XNqd70Dx3D4KhQ
 https://docs.google.com/presentation/d/1uIZy3TQ-AG42hxwqjBmpibas0hdZ483j-EPpLz0Ymwk/edit?usp=sharing

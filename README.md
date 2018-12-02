@@ -24,7 +24,7 @@ https://drive.google.com/open?id=16J6T_okFoPXfoQiYjZ-_VeGefWdXW3gHRIIMTYRHsps
 Will be added in a weekly basis
 
 <br>
-### Lecture 1 (Everything which has to do with Variables and Variable Methods + Code Flow)
+**Lecture 1** (Everything which has to do with Variables and Variable Methods + Code Flow)
 <br>
 https://drive.google.com/open?id=1asBgTw0xXlBp8jMvy_w0rKojXnqDPUfmgqJYYuAPYbo
 
@@ -36,6 +36,6 @@ https://drive.google.com/open?id=1DjtGs3Zd3nF7PkQSil5tgq_OMhbk3XNqd70Dx3D4KhQ
 
 <br>
 <br>
-### Lecture 3 (Classes and 3rd Party Packages)
+**Lecture 3** (Classes and 3rd Party Packages)
 <br>
 https://docs.google.com/presentation/d/1uIZy3TQ-AG42hxwqjBmpibas0hdZ483j-EPpLz0Ymwk/edit?usp=sharing

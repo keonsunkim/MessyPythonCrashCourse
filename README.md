@@ -30,7 +30,7 @@ https://drive.google.com/open?id=1asBgTw0xXlBp8jMvy_w0rKojXnqDPUfmgqJYYuAPYbo
 
 <br>
 <br>
-**Lecture 2** (Functions, Generators, Iterables)
+* **Lecture 2** (Functions, Generators, Iterables)
 <br>
 https://drive.google.com/open?id=1DjtGs3Zd3nF7PkQSil5tgq_OMhbk3XNqd70Dx3D4KhQ
 

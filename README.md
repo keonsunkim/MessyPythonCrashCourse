@@ -24,15 +24,15 @@ https://drive.google.com/open?id=16J6T_okFoPXfoQiYjZ-_VeGefWdXW3gHRIIMTYRHsps
 Will be added in a weekly basis
 
 <br>
-**Lecture 1** (Everything which has to do with Variables and Variable Methods + Code Flow)
+Lecture 1 (Everything which has to do with Variables and Variable Methods + Code Flow)
 <br>
 https://drive.google.com/open?id=1asBgTw0xXlBp8jMvy_w0rKojXnqDPUfmgqJYYuAPYbo
 
 <br>
 <br>
-* **Lecture 2** (Functions, Generators, Iterables)
+**Lecture 2** (Functions, Generators, Iterables)
 <br>
-https://drive.google.com/open?id=1DjtGs3Zd3nF7PkQSil5tgq_OMhbk3XNqd70Dx3D4KhQ
+[Google Slides to Lecture 2](https://drive.google.com/open?id=1DjtGs3Zd3nF7PkQSil5tgq_OMhbk3XNqd70Dx3D4KhQ)
 
 <br>
 <br>

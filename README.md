@@ -29,7 +29,6 @@ Will be added in a weekly basis
 - [Google Slides to Lecture 1](https://drive.google.com/open?id=1asBgTw0xXlBp8jMvy_w0rKojXnqDPUfmgqJYYuAPYbo/)
 
 
-
 **Lecture 2** (Functions, Generators, Iterables)
 
 - [Google Slides to Lecture 2](https://drive.google.com/open?id=1DjtGs3Zd3nF7PkQSil5tgq_OMhbk3XNqd70Dx3D4KhQ/)
